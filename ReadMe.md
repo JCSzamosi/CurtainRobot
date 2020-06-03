@@ -36,6 +36,12 @@ detected. This is imperfect because there is a very brief pause every 1/8
 revolution while the code loops, but it might be good enough if those pauses are
 not noticeable in the actual curtain movement.
 
+Videos
+------
+
+* [The first draft of the robot. Fixed amount of revolution per button
+press.](https://www.youtube.com/watch?v=yPqz3ENg95E)
+
 Rough Notes
 -----------
 
