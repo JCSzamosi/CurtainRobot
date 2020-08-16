@@ -41,6 +41,11 @@ Videos
 * [The first draft of the robot. Fixed amount of revolution per button
 press.](https://www.youtube.com/watch?v=yPqz3ENg95E)
 
+Housing
+-------
+
+* I haven't written the STL files for the housing or spindles yet
+
 Rough Notes
 -----------
 
